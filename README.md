@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravi Verma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi7317&label=Profile%20views&color=0e75b6&style=flat" alt="ravi7317" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ravi7317](https://github.com/ravi7317)
 
-- 💬 Ask me about **R-programming, DBMS,SQL,EXCEL,TABLUE**
+- 💬 Ask me about **R-programming,DBMS,SQL,EXCEL,TABLUE**
 
 - 📫 How to reach me **ravikurmi8313@gmail.com**
 
