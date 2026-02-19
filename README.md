@@ -9,11 +9,6 @@
 ---
 
 <h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="300" alt="Coding Animation"/>
-</p>
-
 <p align="center" style="font-size:16px;">
   🚀 <b style="color:#00BFFF;">Java Full Stack Developer</b> passionate about crafting dynamic, scalable, and user-friendly web applications. <br><br>
   🌱 <b style="color:#FFA500;">Currently Exploring:</b> Spring Boot • Hibernate • REST APIs • React.js • MySQL • R Programming • DBMS • SQL • Excel • Tableau <br><br>
@@ -24,10 +19,6 @@
   📫 <b style="color:#FF4500;">Reach Me At:</b> 
   <a href="mailto:ravikurmi8313@gmail.com" style="color:#00BFFF; text-decoration:none;"><b>ravikurmi8313@gmail.com</b></a> <br><br>
   ⚡ <b style="color:#FFD700;">Fun Fact:</b> I debug better after chai ☕😜
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer"/>
 </p>
 
 ---
@@ -89,20 +80,9 @@
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravi7317&theme=radical" />
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravi7317&theme=radical" />
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ravi7317&theme=radical&utcOffset=8" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravi7317&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
 <img src="https://streak-stats.demolab.com?user=ravi7317&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img width="50%" src="https://github-profile-trophy.vercel.app/?username=ravi7317&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer" />
